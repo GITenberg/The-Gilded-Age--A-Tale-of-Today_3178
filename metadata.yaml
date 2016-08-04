@@ -1,0 +1,57 @@
+_repo: The-Gilded-Age--A-Tale-of-Today_3178
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 3178/3178-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  authors:
+  - agent_name: Warner, Charles Dudley
+    birthdate: 1829
+    deathdate: 1900
+    gutenberg_agent_id: '993'
+    url: http://www.gutenberg.org/2009/agents/993
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dudley_Warner
+  - agent_name: Twain, Mark
+    aliases:
+    - Twain, Mark (Samuel Clemens)
+    - Clemens, Samuel Langhorne
+    birthdate: 1835
+    deathdate: 1910
+    gutenberg_agent_id: '53'
+    url: http://www.gutenberg.org/2009/agents/53
+    wikipedia: http://en.wikipedia.org/wiki/Mark_Twain
+description: "The Gilded Age: A Tale of Today is a novel by Mark Twain and Charles\
+  \ Dudley Warner first published in 1873. It satirizes greed and political corruption\
+  \ in post-Civil War America in the era now referred to as the Gilded Age. Although\
+  \ not one of Twain's best-known works, it has appeared in more than one hundred\
+  \ editions since its original publication. Twain and Warner originally had planned\
+  \ to issue the novel with illustrations by Thomas Nast. The book is remarkable for\
+  \ two reasons–-it is the only novel Twain wrote with a collaborator, and its title\
+  \ very quickly became synonymous with graft, materialism, and corruption in public\
+  \ life.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2004-06-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3178'
+  wikidata: Q16385809
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Satire'
+- !lcc 'PS'
+- !lcsh 'Businessmen -- Fiction'
+- !lcsh 'Political corruption -- Fiction'
+- !lcsh 'Political fiction'
+- !lcsh 'Legislators -- Fiction'
+- !lcsh 'Speculation -- Fiction'
+- !lcsh 'Washington (D.C.) -- Fiction'
+- GITenberg
+title: 'The Gilded Age: A Tale of Today'
+url: http://www.gutenberg.org/ebooks/3178
+wikipedia:
+- https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%B7%D0%BE%D0%BB%D0%BE%D1%87%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B2%D0%B5%D0%BA
+- https://en.wikipedia.org/wiki/The_Gilded_Age:_A_Tale_of_Today
